@@ -3,13 +3,13 @@
 - 👨‍💻 Desenvolvendor Front-end Pleno
 - 👨‍🎓  Formado em Sistemas de Informação
 - 🎓 Cursando Pós-graduação em Desenvolvimento Web Full Stack
-- 🧙 Javascript, Vue js
+- 🧙 Javascript, Vue js, Google Maps API
 - 📅 23 anos
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02F7EC&center=true&vCenter=true&width=435&lines=Seja%2C+bem+vindo!;I+am%2C+Rafael!;Dev+Front-end" alt="Typing SVG" /></a>
 
-<h2>:busts_in_silhouette: Contato</h2>
+<h2>Contato</h2>
 <a href="https://github.com/SvRafael">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/SvRafael?style=for-the-badge&color=181717&logo=github&logoColor=02F7ECFF&label=@SvRafael" height="22px">
 </a>
@@ -22,12 +22,17 @@
 </a>
 </br>
 
-<h2>:bulb: Linguagens e Frameworks em que codifico</h2>
+<h2>Linguagens e Frameworks em que codifico</h2>
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img title="Vue JS" alt="vue js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></code>
 <code><img title="Tailwindcss" alt="vue js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></code>
+<code><img title="Flutter" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /></code>
+<code><img title="Laravel" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /></code>
+<code><img title="MySql" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
+<code><img title="NodeJs" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+          
 </br></br>
 
 [![Spotify](https://novatorem-1629fkl7c-svrafael.vercel.app/api/spotify)](https://open.spotify.com/user/RafaelSouza)
