@@ -35,6 +35,7 @@
           
 </br></br>
 
+<h2>Ouvindo agora Spotify</h2>
 [![Spotify](https://novatorem-1629fkl7c-svrafael.vercel.app/api/spotify)](https://open.spotify.com/user/RafaelSouza)
 
 </br>
